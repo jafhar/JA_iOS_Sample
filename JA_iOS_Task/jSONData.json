@@ -1,0 +1,34 @@
+{"placesList": [
+                   {
+                   "placeName": "Big Ben",
+                   "city": "London SW1A 0AA",
+                   "placeImageURL": "BigBen",
+                "placeInfo": "Big Ben is the nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London[1] and is usually extended to refer to both the clock and the clock tower.[2][3] The tower is officially Elizabeth Tower, renamed to celebrate the Diamond Jubilee of Elizabeth II in 2012; until then, it was known simply as the Clock Tower."
+                   },
+                   {
+                   "placeName": "Buckingham Palace",
+                   "city": "London SW1A 1AA",
+                   "placeImageURL": "BuckinghamPalace"
+                   },
+                   {
+                   "placeName": "London Eye",
+                   "city": "London SE1 7PB",
+                   "placeImageURL": "LondonEye"
+                },
+                {
+                "placeName": "St Paul's Cathedral",
+                "city": "London EC4M 8AD",
+                "placeImageURL": "St-Pauls"
+                },
+                {
+                "placeName": "Tower Bridge",
+                "city": "London SE1 2UP",
+                "placeImageURL": "TowerBridge"
+                },
+                {
+                "placeName": "Westminster Abbey",
+                "city": "London SW1P 3PA",
+                "placeImageURL": "WestminsterAbbey"
+                }
+                   ]
+}
